@@ -1,4 +1,4 @@
-# projeto_saas
+# projeto_sass
 
 Esse projeto foi realizado no curso de SASS Básico; <br>
 O Projeto está responsivo (Foi utilizado o @media); <br>
